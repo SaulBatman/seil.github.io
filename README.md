@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [seil website]([https://seil.github.io](https://saulbatman.github.io/SEIL_site/)).
+This is the repository that contains source code for the [seil website](https://saulbatman.github.io/SEIL_site/).
 
 ```
 @article{jia2023seil,
