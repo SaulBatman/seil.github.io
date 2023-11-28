@@ -3,11 +3,14 @@
 This is the repository that contains source code for the [seil website](https://saulbatman.github.io/SEIL_site/).
 
 ```
-@article{jia2023seil,
-  author    = {Jia, Mingxi; Wang, Dian; Su, Guanang; Klee, David; Zhu, Xupeng; Walters, Robin; Platt, Robert},
-  title     = {SEIL: Simulation-augmented Equivariant Imitation Learning},
-  journal   = {ICRA},
-  year      = {2023},
+@inproceedings{jia2023seil,
+  title={Seil: Simulation-augmented equivariant imitation learning},
+  author={Jia, Mingxi and Wang, Dian and Su, Guanang and Klee, David and Zhu, Xupeng and Walters, Robin and Platt, Robert},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={1845--1851},
+  year={2023},
+  organization={IEEE}
+}
 ```
 
 # Website License
